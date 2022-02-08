@@ -64,11 +64,11 @@ button {
     position: absolute;
     right: 0;
     top: 0;
-    border-bottom: 570px solid #F6B400;
-    border-left: 125px solid transparent;
-    z-index: -1;
+    border-bottom: 400px solid #F6B400;
+    border-left: 100px solid transparent;
+    z-index: 1;
     height: 0;
-    width: 460px;
+    width: 300px;
 }
 
 .services {
