@@ -18,7 +18,8 @@ An access to the Internet
 Technology Used
 HTML - which was used to build the structure of the pages starting from the vavigation bar to the last page.
 
-CSS - was used to style the website and produce an appealing UI
+CSS - was used to style the website and produce an appealing UI and undestandable
+
 
 
 ## Reference
