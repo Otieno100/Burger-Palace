@@ -78,7 +78,7 @@ button {
 }
 
 .service-card {
-    border: 1px saddlebrown solid;
+    border: 1px solid;
     width: 250px !important;
     min-height: 300px;
     border-radius: 12px;
